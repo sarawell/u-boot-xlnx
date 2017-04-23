@@ -1,0 +1,2 @@
+ehci-zynq.c:25:12:ehci_zynq_ofdata_to_platdata	16	static
+ehci-zynq.c:36:12:ehci_zynq_probe	40	static

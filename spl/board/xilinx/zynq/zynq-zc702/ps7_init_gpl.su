@@ -1,0 +1,14 @@
+ps7_init_gpl.c:13023:1:getPS7MessageInfo	0	static
+ps7_init_gpl.c:13040:1:ps7GetSiliconVersion	0	static
+ps7_init_gpl.c:13048:6:mask_write	0	static
+ps7_init_gpl.c:13055:5:mask_poll	0	static
+ps7_init_gpl.c:13068:15:mask_read	0	static
+ps7_init_gpl.c:13262:7:perf_start_clock	0	static
+ps7_init_gpl.c:13271:7:perf_reset_clock	0	static
+ps7_init_gpl.c:13279:5:get_number_of_cycles_for_delay	0	static
+ps7_init_gpl.c:13287:7:perf_disable_clock	0	static
+ps7_init_gpl.c:13292:6:perf_reset_and_start_timer	8	static
+ps7_init_gpl.c:13078:1:ps7_config	88	static
+ps7_init_gpl.c:13161:1:ps7_post_config	8	static
+ps7_init_gpl.c:13180:1:ps7_debug	8	static
+ps7_init_gpl.c:13199:1:ps7_init	24	static

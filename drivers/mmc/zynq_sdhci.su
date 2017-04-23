@@ -1,0 +1,5 @@
+zynq_sdhci.c:219:12:arasan_sdhci_ofdata_to_platdata	16	static
+zynq_sdhci.c:172:12:arasan_sdhci_probe	32	static
+zynq_sdhci.c:245:12:arasan_sdhci_bind	8	static
+zynqmp_tap_delay.h:16:13:zynqmp_dll_reset	0	static
+zynqmp_tap_delay.h:17:13:arasan_zynqmp_set_tapdelay	0	static

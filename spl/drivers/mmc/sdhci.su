@@ -1,0 +1,10 @@
+sdhci.c:544:12:sdhci_set_uhs	8	static
+sdhci.c:400:12:sdhci_set_clock	24	static
+sdhci.c:597:12:sdhci_set_ios	16	static
+sdhci.c:498:12:sdhci_set_voltage	24	static
+sdhci.c:24:13:sdhci_reset	16	static
+sdhci.c:132:12:sdhci_send_command	32	static
+sdhci.c:318:12:sdhci_execute_tuning	88	static
+sdhci.c:691:5:sdhci_probe	16	static
+sdhci.c:716:5:sdhci_setup_cfg	8	static
+sdhci.c:830:5:sdhci_bind	0	static

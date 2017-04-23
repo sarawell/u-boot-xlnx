@@ -1,0 +1,6 @@
+zynq_i2c.c:80:13:zynq_i2c_init	0	static
+zynq_i2c.c:294:21:zynq_i2c_set_bus_speed	0	static
+zynq_i2c.c:137:12:zynq_i2c_wait	16	static
+zynq_i2c.c:250:12:zynq_i2c_write	16	static
+zynq_i2c.c:181:12:zynq_i2c_read	16	static
+zynq_i2c.c:160:12:zynq_i2c_probe	8	static
